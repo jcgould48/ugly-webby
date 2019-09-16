@@ -27,7 +27,7 @@ h3 {
     line-height: 1;
     text-align: left;
     text-shadow: 10px 2px rgb(196, 156, 243);
-    border: 10px dotted rgb(246, 164, 205);
+    border: 10px dashed rgb(246, 164, 205);
 }
 
 p {
@@ -41,7 +41,7 @@ p {
     text-align: justify;
     text-justify: inter-word;
     text-align: center;  
-    border: 2px dashed olive;           
+    border: 2px dotted olive;           
 }
 
 textarea {
