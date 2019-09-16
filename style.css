@@ -7,7 +7,7 @@ body { background-image: url('https://media.giphy.com/media/i9Xeu3ONJooI8/giphy.
 }
 
 h1 {
-    color:palevioletred;
+    color:rgb(245, 57, 220);
     
     font-family: 'Comic Sans MS', sans-serif;
     font-size: 275px;
@@ -75,7 +75,7 @@ form {
     height:110px;
     width:190px;
     margin:auto;
-    border: 23px rgb(134, 92, 92) solid;
+    border: 23px rgb(235, 60, 191) solid;
     padding:11px;
 }
     
