@@ -1,4 +1,4 @@
-body { background-image:;
+body { background-image: url('https://media.giphy.com/media/i9Xeu3ONJooI8/giphy.gif');
     background-size: cover;
     
     height: 100vh;
@@ -32,8 +32,8 @@ h3 {
 }
 
 p {
-    color:#958604;
-    text-shadow: 50px 2px rgb(111, 0, 255);
+    color:#a09003;
+    text-shadow: 50px 2px rgb(133, 42, 253);
     font-family:'Comic Sans MS', sans-serif;
     font-size: 33px;
     letter-spacing: -1px;
