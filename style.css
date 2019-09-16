@@ -1,4 +1,4 @@
-body { background-image: url('https://media.giphy.com/media/i9Xeu3ONJooI8/giphy.gif');
+body { background-image:;
     background-size: cover;
     
     height: 100vh;
@@ -57,7 +57,9 @@ ul, ol {
     margin: 20px;
     padding: 0;
     color:rgb(255, 238, 1);
-  
+    text-align: left;
+    font-weight: bolder;
+    font-family: 'Papyrus', sans-serif;
 
 }
 
