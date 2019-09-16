@@ -16,11 +16,10 @@ h1 {
     line-height: -40px;
     text-align: end;
     text-shadow: 10px 2px aqua;
-    border: 20px inset rgb(255, 255, 155);
+    border: 20px groove rgb(255, 255, 155);
 }
 h3 {
     color:rgb(156, 245, 140);
-    
     font-family: 'Papyrus', sans-serif;
     font-size: 100px;
     font-weight: bold;
@@ -76,8 +75,8 @@ form {
     height:110px;
     width:190px;
     margin:auto;
-    border:1px #CCC solid;
-    padding:10px;
+    border: 23px rgb(134, 92, 92) solid;
+    padding:11px;
 }
     
 input, textarea {
