@@ -16,7 +16,7 @@ h1 {
     line-height: -40px;
     text-align: end;
     text-shadow: 10px 2px aqua;
-    border: 20px groove rgb(255, 255, 155);
+    border: 20px inset rgb(255, 255, 155);
 }
 h3 {
     color:rgb(156, 245, 140);
@@ -28,7 +28,7 @@ h3 {
     line-height: 1;
     text-align: left;
     text-shadow: 10px 2px rgb(196, 156, 243);
-    border: 10px dashed rgb(246, 164, 205);
+    border: 10px dotted rgb(246, 164, 205);
 }
 
 p {
@@ -42,7 +42,7 @@ p {
     text-align: justify;
     text-justify: inter-word;
     text-align: center;  
-    border: 2px dotted olive;           
+    border: 2px dashed olive;           
 }
 
 textarea {
